@@ -3,7 +3,7 @@
   "editor.cursorBlinking": "solid",
   "editor.fontFamily": "ui-monospace, Menlo, Monaco, 'Cascadia Mono', 'Segoe UI Mono', 'Roboto Mono', 'Oxygen Mono', 'Ubuntu Monospace', 'Source Code Pro', 'Fira Mono', 'Droid Sans Mono', 'Courier New', monospace",
   "editor.fontLigatures": false,
-  "editor.fontSize": 22,
+  "editor.fontSize": 14,
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.lineNumbers": "on",
@@ -18,7 +18,26 @@
   "screencastMode.onlyKeyboardShortcuts": true,
   "terminal.integrated.fontSize": 18,
   "workbench.activityBar.visible": true,
-  "workbench.colorTheme": "Visual Studio Dark",
+  "workbench.colorTheme": "Material Theme Darker High Contrast",
+  "workbench.colorCustomizations": {
+    "[Material Theme Darker High Contrast]": {
+      "editor.background": "#0c0c0c",
+      "editor.lineHighlightBackground": "#181818",
+      "editorLineNumber.foreground": "#808080",
+      "editorLineNumber.activeForeground": "#e8e8e8",
+      "sideBar.background": "#080808",
+      "sideBarSectionHeader.background": "#0c0c0c",
+      "statusBar.background": "#0c0c0c",
+      "activityBar.background": "#181818",
+      "tab.inactiveBackground": "#0c0c0c",
+      "tab.activeBackground": "#0c0c0c",
+      "editorGroupHeader.tabsBackground": "#0c0c0c",
+      "titleBar.activeBackground": "#181818",
+      "titleBar.inactiveBackground": "#0c0c0c",
+      "panel.background": "#101010",
+      "panel.border": "#101010"
+    }
+  },
   "workbench.fontAliasing": "antialiased",
-  "workbench.statusBar.visible": true
+  "workbench.statusBar.visible": true,
 }
